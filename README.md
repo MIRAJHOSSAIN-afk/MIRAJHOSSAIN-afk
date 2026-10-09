@@ -1,6 +1,4 @@
-<marquee width="300" scrollamount="5" behavior="alternate">
-  <h2><b>⚡ #FREE_FOR_WORK ⚡</b></h2>
-</marquee>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Free+For+Work)](https://git.io/typing-svg)
 <br clear="all"/>
 
 <!-- ============ HEADER ============ -->
