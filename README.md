@@ -1,5 +1,6 @@
-<img src="./free-for-work.svg" alt="#FREE_FOR_WORK" align="left" width="300"/>
-
+<marquee width="300" scrollamount="5" behavior="alternate">
+  <h2><b>⚡ #FREE_FOR_WORK ⚡</b></h2>
+</marquee>
 <br clear="all"/>
 
 <!-- ============ HEADER ============ -->
