@@ -1,4 +1,4 @@
-<img src="./free-for-work" alt="#FREE_FOR_WORK" align="left" width="300"/>
+<img src="./free-for-work.svg" alt="#FREE_FOR_WORK" align="left" width="300"/>
 
 <br clear="all"/>
 
