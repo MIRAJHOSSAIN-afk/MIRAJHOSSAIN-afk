@@ -16,6 +16,12 @@
 ![Status](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-39ff14?style=for-the-badge&labelColor=0a0a14)
 ![Location](https://img.shields.io/badge/NODE-DHAKA,_BD-00fff0?style=for-the-badge&labelColor=0a0a14)
 
+<br/>
+
+<a href="https://mirajsportfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/%3E_VIEW_MY_PORTFOLIO-00fff0?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0a0a14" alt="Portfolio" />
+</a>
+
 </div>
 
 ---
@@ -31,7 +37,8 @@
   "languages": ["English", "Bengali"],
   "interests": ["AI", "Edge Computing", "Backend / Full-Stack", "Software Engineering"],
   "currently": "Looking for an AI / SWE internship in a product environment",
-  "status": "#FREE_FOR_WORK"
+  "status": "#FREE_FOR_WORK",
+  "portfolio": "https://mirajsportfolio.vercel.app/"
 }
 ```
 
@@ -146,9 +153,17 @@ Sustainability web platform with secure authentication and a dynamic UI for trac
 
 <div align="center">
 
+**// PORTFOLIO**
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00fff0?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0a0a14)](https://mirajsportfolio.vercel.app/)
+
+**// SOCIALS**
+
 [![Email](https://img.shields.io/badge/EMAIL-00fff0?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0a0a14)](mailto:mirajh417@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-ff00c8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a14)](https://www.linkedin.com/in/miraj-hossain-075590257)
 [![GitHub](https://img.shields.io/badge/GITHUB-f5d300?style=for-the-badge&logo=github&logoColor=black&labelColor=0a0a14)](https://github.com/MIRAJHOSSAIN-afk)
+[![Facebook](https://img.shields.io/badge/FACEBOOK-1877f2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0a0a14)](https://www.facebook.com/share/1DojQrFgY9/)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-ff00c8?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a14)](https://www.instagram.com/mirajh417?srtk=NDdyNGMyOXl2MXhu)
 
 <sub>References available upon request.</sub>
 
